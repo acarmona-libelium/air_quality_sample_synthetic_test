@@ -1,4 +1,3 @@
-%%writefile algo.py
 import csv
 import os
 import json
